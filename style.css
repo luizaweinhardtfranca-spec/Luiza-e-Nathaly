@@ -6,11 +6,22 @@ body {
     width: 40%;
 }
 
-    body{
-background-color: blue
-;
+ body{
+background-color: blue (111,0,255);
+font-weight: bold;
+display: flex;
+align-items: center;
+justify-content; 
+ }
 
+ .links{
+    display:flex;
+    flex-direction: column;
 
-
-
-    }
+ }
+ a{
+    margin: 20px;
+    padding: 20px;
+    background-color: blue rgb(35, 0,92);
+    color: blue;
+    border-radius; 20px;
